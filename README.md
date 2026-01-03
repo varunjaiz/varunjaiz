@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 Aspiring Data Analyst focused on transforming raw data into meaningful insights<br><br>🐍 Skilled in Python, SQL, Excel, and data cleaning techniques<br><br>📈 Experienced in data visualization and exploratory data analysis<br><br>🧠 Strong analytical mindset with a background in Computer Science<br><br>🚀 Actively building projects and learning to grow in data-driven roles
+📊 Aspiring Data Analyst focused on transforming raw data into meaningful insights<br><br>🐍 Skilled in Python, SQL, Excel, PowerBI, Tableau, and data cleaning techniques<br><br>📈 Experienced in data visualization and exploratory data analysis<br><br>🧠 Strong analytical mindset with a background in Computer Science<br><br>🚀 Actively building projects and learning to grow in data-driven roles
 
 
 ## 🌐 Socials:
