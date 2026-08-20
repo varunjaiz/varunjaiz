@@ -1,10 +1,9 @@
 # 💫 Hi 👋, I'm Varun Jaiswal
-**A passionate Data Analyst || Data Scientist || Kaggle Master from India**
+**A passionate MERN stack developer**
 
 Email Me 👉 ✉️ **varunjaiz39@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-# 💫 About Me:
-📊 Aspiring Data Analyst focused on transforming raw data into meaningful insights<br><br>🐍 Skilled in Python, SQL, Excel, PowerBI, Tableau, and data cleaning techniques<br><br>📈 Experienced in data visualization and exploratory data analysis<br><br>🧠 Strong analytical mindset with a background in Computer Science<br><br>🚀 Actively building projects and learning to grow in data-driven roles
+
 
 
 ## 🌐 Socials:
